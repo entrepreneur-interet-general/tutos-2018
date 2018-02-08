@@ -3,6 +3,10 @@ TUTOS / RESSOURCES EIG 2018
 Ensemble des tutoriels et listes de ressources utilises par les EIG
 Classé par langage, taggé par thématique
 
+
+Note: a l'origine, la liste c'etait ce Readme. On passe tout vers le Wiki (cf l'onglet en haut)
+-> Contributors, allez sur Wiki, car ce fichier est amener a etre suppr quand tout sera passe sur le wiki
+
 # Javascript
 
      VueJS 
