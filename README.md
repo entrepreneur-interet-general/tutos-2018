@@ -92,10 +92,12 @@ TOPOJSON et affilés :
 Leaflet / Mapbox
 - utilitaires : http://tools.geofabrik.de/ 
 
+OpenMapTiles
+- https://openmaptiles.org/docs/
+
 ## BDDs
 MongoDB :
 - netninja / intro : https://www.youtube.com/watch?v=9OPP_1eAENg&list=PL4cUxeGkcC9jpvoYriLI0bY8DOgWZfi6u
-- 
 
 Tile38
 - http://tile38.com/documentation/
