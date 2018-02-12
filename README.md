@@ -1,4 +1,4 @@
-TUTOS / RESSOURCES EIG 2018
+# TUTOS / RESSOURCES EIG 2018
 
 Ensemble des tutoriels et listes de ressources utilises par les EIG
 Classé par langage, taggé par thématique
@@ -11,16 +11,14 @@ Note: a l'origine, la liste c'etait ce Readme. On passe tout vers le Wiki (cf l'
 
 
 
-Tile38
-- http://tile38.com/documentation/
-
-## Cheat sheets 
+Doit encore etre envoyé sur le wiki:
+### Cheat sheets 
 - markdown : https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet 
 - Flask (PrettyPrinted) : https://s3.us-east-2.amazonaws.com/prettyprinted/flask_cheatsheet.pdf 
 - Flask : http://www.idiotinside.com/uploads/2015/02/flask-cheat-sheet.pdf 
 - Flask : https://www.cheatography.com/amicheletti/cheat-sheets/python-flask/ 
 
-## Awesome lists
+### Awesome lists
 Open Source projects :
 -https://medium.com/@likid.geimfari/the-list-of-interesting-open-source-projects-2daaa2153f7c
 Geospatial :
